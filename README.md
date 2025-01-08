@@ -1,4 +1,4 @@
-# Forecasting-Supply-Needs-A-Regression--Based-Approach
+# Predicting Supply Needs- A Regression Based Approach
 This Project optimizes supply chain performance of an FMCG company in the instant noodles market, addressing supply-demand mismatches in warehouses. It compares  linear regression and multiple linear regression models with and without interaction and quadratic terms to predict the optimal product shipment weights.
 
 ## Project Highlights
